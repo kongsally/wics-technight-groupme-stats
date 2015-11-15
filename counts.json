@@ -1,86 +1,86 @@
 [
   {
-    "name":"Sally Kong",
-    "message_count":252
+    "label":"Sally Kong",
+    "value":252
   },
   {
-    "name":"Isabela Rovira",
-    "message_count":41
+    "label":"Isabela Rovira",
+    "value":41
   },
   {
-    "name":"Qiao Han",
-    "message_count":40
+    "label":"Qiao Han",
+    "value":40
   },
   {
-    "name":"Adel Boyarsky",
-    "message_count":39
+    "label":"Adel Boyarsky",
+    "value":39
   },
   {
-    "name":"Zheng Tian",
-    "message_count":34
+    "label":"Zheng Tian",
+    "value":34
   },
   {
-    "name":"Jess@$",
-    "message_count":33
+    "label":"Jess@$",
+    "value":33
   },
   {
-    "name":"Audrey Liu",
-    "message_count":31
+    "label":"Audrey Liu",
+    "value":31
   },
   {
-    "name":"Ellen Duong",
-    "message_count":23
+    "label":"Ellen Duong",
+    "value":23
   },
   {
-    "name":"Jessica Ramos",
-    "message_count":23
+    "label":"Jessica Ramos",
+    "value":23
   },
   {
-    "name":"Lauren Datz",
-    "message_count":21
+    "label":"Lauren Datz",
+    "value":21
   },
   {
-    "name":"Julia Hyojung Chun",
-    "message_count":17
+    "label":"Julia Hyojung Chun",
+    "value":17
   },
   {
-    "name":"Kelly Tan",
-    "message_count":8
+    "label":"Kelly Tan",
+    "value":8
   },
   {
-    "name":"Wenli Zhao",
-    "message_count":6
+    "label":"Wenli Zhao",
+    "value":6
   },
   {
-    "name":"Karen Her",
-    "message_count":5
+    "label":"Karen Her",
+    "value":5
   },
   {
-    "name":"Carter Tilghman",
-    "message_count":5
+    "label":"Carter Tilghman",
+    "value":5
   },
   {
-    "name":"Terry Sun",
-    "message_count":5
+    "label":"Terry Sun",
+    "value":5
   },
   {
-    "name":"Sierra Yit",
-    "message_count":4
+    "label":"Sierra Yit",
+    "value":4
   },
   {
-    "name":"Emmanuel Suarez Acevedo",
-    "message_count":3
+    "label":"Emmanuel Suarez Acevedo",
+    "value":3
   },
   {
-    "name":"Nana Acquah",
-    "message_count":2
+    "label":"Nana Acquah",
+    "value":2
   },
   {
-    "name":"Irena Xia",
-    "message_count":1
+    "label":"Irena Xia",
+    "value":1
   },
   {
-    "name":"Elizabeth Hamp",
-    "message_count":1
+    "label":"Elizabeth Hamp",
+    "value":1
   }
 ]
